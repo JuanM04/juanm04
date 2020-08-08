@@ -1,4 +1,4 @@
-# Hello
+# Hello! 👋
 
 <img src="https://juanm04.com/api/get-gif" alt="Funny gif saluting you :3" height="200" />
 
