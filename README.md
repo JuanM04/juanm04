@@ -2,7 +2,7 @@
 
 <img src="https://juanm04.com/api/get-gif" alt="Funny gif saluting you :3" height="200" />
 
-My name is Juan Martín Seery. I'm <!-- AGE:START -->16<!-- AGE:END --> and I'm from Argentina.
+My name is Juan Martín Seery. I was born in 2004 and I'm from Argentina.
 Here you'll find some of my open source contributions, like **[PaseTec](https://github.com/JuanM04/pasetec)**, system for my school bus based on cards,
 or **[The Cloc](https://juanm04.com/docs/the-cloc)**, a simple alarm that doesn't show you the time.
 
