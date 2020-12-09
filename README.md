@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Juan Martín Seery. I was born in 2004 and I'm from Argentina.
+My name is Juan Martín Seery. I'm from Argentina and I _love_ open source.
 Here you'll find some of my open source contributions, like **[PaseTec](https://github.com/JuanM04/pasetec)**, system for my school bus based on cards,
 or **[The Cloc](https://juanm04.com/docs/the-cloc)**, a simple alarm that doesn't show you the time.
 
