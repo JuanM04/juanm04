@@ -9,4 +9,4 @@ or **[The Cloc](https://juanm04.com/docs/the-cloc)**, a simple alarm that doesn'
 You can talk to me with some of the links at the left, or you can se my **[portfolio](https://juanm04.com)**,
 or as I like to call it, my _toolbox_ (explanation in spanish [here](https://juanm04.com/docs/pseudo-blog/herramientas-hacker)).
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/JuanM04/JuanM04/blob/master/github-metrics.svg)
